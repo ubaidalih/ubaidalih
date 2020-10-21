@@ -10,7 +10,7 @@ I'm Ubaidillah Ariq Prathama, you can call me Ubay. I'm a freshman college stude
 
 <div>
   <p align = "center">
-<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ubaidillah-ariq-prathama-03535a1ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ubaidillah_ariq " target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:ubayariqprathama@gmail.com"><img src="https://img.shields.io/badge/-ubayariqprathama@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </p>
