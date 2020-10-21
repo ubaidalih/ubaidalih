@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ubaidalih/ubaidalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ubaidillah Ariq Prathama, you can call me Ubay. I'm a freshman college student majoring in computer science. Just started programming in senior year of highschool and mostly competitive programming. Still need to learn very much and looking forward to learn and collaborate with anyone.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning on Bandung Institute of Technology
+- 👯 I’m looking to collaborate on any "not so advanced" project to improve my programming skill
+- 🤔 I’m looking for help with anything programming related
+- 💬 Ask me about competitive programming, i'm not the best but i can help
+- 📫 How to reach me: ubayariqprathama@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p align = "center">
+<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/ubaidillah_ariq " target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:ubayariqprathama@gmail.com"><img src="https://img.shields.io/badge/-ubayariqprathama@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  </p>
+</div>
