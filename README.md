@@ -8,6 +8,11 @@ I'm Ubaidillah Ariq Prathama, you can call me Ubay. I'm a freshman college stude
 - 💬 Ask me about competitive programming, i'm not the best but i can help
 - 📫 How to reach me: ubayariqprathama@gmail.com
 
+Programming skills :
+- Basic C++
+- Basic Python
+- A little bit of HTML and CSS
+
 <div>
   <p align = "center">
 <a href="https://www.linkedin.com/in/ubaidillah-ariq-prathama-03535a1ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
