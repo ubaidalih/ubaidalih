@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Ubaidillah Ariq Prathama, you can call me Ubay. I'm a freshman college student majoring in computer science. Just started programming in senior year of highschool and mostly competitive programming. Still need to learn very much and looking forward to learn and collaborate with anyone.
+I'm Ubaidillah Ariq Prathama, you can call me Ubay. I'm a junior college student majoring in computer science. Just started programming in senior year of highschool and mostly competitive programming. Still need to learn very much and looking forward to learn and collaborate with anyone.
 
 - 🌱 I’m currently learning on Bandung Institute of Technology
-- 👯 I’m looking to collaborate on any "not so advanced" project to improve my programming skill
-- 🤔 I’m looking for help with anything programming related
+- 👯 I’m looking to collaborate on any project to improve my programming skill
+- 🤔 I’m interested in machine learning, artificial intelligence, and data science
 - 💬 Ask me about competitive programming, i'm not the best but i can help
 - 📫 How to reach me: ubayariqprathama@gmail.com
 
