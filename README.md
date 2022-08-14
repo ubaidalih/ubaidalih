@@ -8,10 +8,12 @@ I'm Ubaidillah Ariq Prathama, you can call me Ubay. I'm a junior college student
 - 💬 Ask me about competitive programming, i'm not the best but i can help
 - 📫 How to reach me: ubayariqprathama@gmail.com
 
-Programming skills :
-- Basic C++
-- Basic Python
-- A little bit of HTML and CSS
+Tools :
+
+- Programming Languages: Java Script, TypeScript, Java, Python, Golang, C/C++, SQL
+- Frameworks: Node Js, React Js, Flask, Firebase
+- Skills: Web Dev, Software Engineering, Machine Learning, Data Structure, Mathematics, Competitive Programming
+- Tools & Stacks: Git, Linux (Ubuntu), Docker, Kubernetes, Redis
 
 <div>
   <p align = "center">
